@@ -4,7 +4,7 @@
 This is a Matlab implementation of the sequential convex approximation algorithms for joint chance constrained problem. It includes a comparison between both conditional value-at-risk (CVaR) and sequential convex approximation for value-at-risk (VaR).
 
 ## Using the code
-Use Matlab to run `example_run.m` directly. You should be able to see the result figure below:
+Use Matlab to run `example_run.m` directly. You may expect to see the result figure below:
 
 ## Files explanation:
 `example_run.m`: runing file, first open
