@@ -1,6 +1,11 @@
-# sequential_chance_constrained
+# Sequential Convex Approximations to Joint Chance Constrained Programs: A Monte Carlo Approach
 
-examplerun.m: runing file, first open
+## Introduction
+
+## Using the code
+
+## Files explanation:
+`examplerun.m`: runing file, first open
 
 mainfunction.m: including generating samples, apply cvar approximation, epsilon approximation and dc approximation, return results for a particular setting
 
