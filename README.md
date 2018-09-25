@@ -6,7 +6,7 @@ This is a Matlab implementation of the sequential convex approximation algorithm
 ## Using the code
 Use Matlab to run `example_run.m` directly. You may expect to see the result figure below:
 
-<img src="result.jpg" width="256">
+<img src="result.jpg" width="512">
 
 ## Files explanation:
 `example_run.m`: runing file, first open
